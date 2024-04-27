@@ -1,0 +1,838 @@
+Generating initial buffer
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00000100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00000200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00000300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00000400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00000500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00000600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00000700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00000800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00000900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 1000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00001000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 1100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00001100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 1200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00001200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 1300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00001300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 1400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00001400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 1500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00001500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 1600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00001600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 1700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00001700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 1800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00001800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 1900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00001900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 2000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00002000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 2100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00002100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 2200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00002200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 2300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00002300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 2400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00002400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 2500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00002500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 2600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00002600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 2700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00002700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 2800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00002800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 2900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00002900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 3000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00003000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 3100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00003100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 3200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00003200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 3300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00003300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 3400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00003400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 3500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00003500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 3600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00003600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 3700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00003700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 3800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00003800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 3900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00003900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 4000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00004000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 4100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00004100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 4200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00004200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 4300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00004300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 4400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00004400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 4500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00004500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 4600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00004600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 4700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00004700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 4800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00004800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 4900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00004900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 5000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00005000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 5100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00005100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 5200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00005200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 5300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00005300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 5400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00005400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 5500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00005500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 5600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00005600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 5700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00005700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 5800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00005800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 5900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00005900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 6000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00006000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 6100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00006100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 6200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00006200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 6300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00006300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 6400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00006400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 6500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00006500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 6600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00006600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 6700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00006700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 6800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00006800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 6900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00006900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 7000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00007000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 7100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00007100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 7200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00007200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 7300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00007300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 7400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00007400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 7500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00007500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 7600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00007600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 7700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00007700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 7800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00007800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 7900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00007900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 8000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00008000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 8100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00008100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 8200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00008200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 8300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00008300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 8400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00008400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 8500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00008500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 8600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00008600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 8700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00008700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 8800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00008800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 8900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00008900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 9000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00009000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 9100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00009100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 9200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00009200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 9300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00009300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 9400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00009400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 9500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00009500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 9600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00009600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 9700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00009700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 9800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00009800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 9900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00009900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 10000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00010000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 10100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00010100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 10200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00010200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 10300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00010300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 10400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00010400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 10500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00010500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 10600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00010600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 10700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00010700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 10800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00010800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 10900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00010900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 11000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00011000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 11100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00011100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 11200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00011200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 11300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00011300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 11400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00011400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 11500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00011500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 11600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00011600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 11700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00011700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 11800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00011800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 11900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00011900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 12000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00012000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 12100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00012100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 12200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00012200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 12300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00012300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 12400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00012400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 12500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00012500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 12600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00012600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 12700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00012700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 12800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00012800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 12900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00012900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 13000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00013000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 13100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00013100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 13200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00013200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 13300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00013300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 13400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00013400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 13500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00013500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 13600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00013600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 13700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00013700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 13800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00013800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 13900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00013900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 14000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00014000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 14100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00014100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 14200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00014200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 14300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00014300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 14400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00014400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 14500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00014500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 14600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00014600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 14700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00014700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 14800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00014800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 14900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00014900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 15000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00015000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 15100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00015100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 15200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00015200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 15300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00015300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 15400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00015400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 15500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00015500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 15600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00015600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 15700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00015700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 15800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00015800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 15900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00015900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 16000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00016000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 16100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00016100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 16200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00016200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 16300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00016300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 16400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00016400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 16500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00016500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 16600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00016600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 16700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00016700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 16800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00016800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 16900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00016900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 17000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00017000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 17100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00017100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 17200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00017200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 17300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00017300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 17400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00017400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 17500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00017500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 17600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00017600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 17700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00017700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 17800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00017800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 17900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00017900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 18000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00018000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 18100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00018100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 18200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00018200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 18300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00018300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 18400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00018400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 18500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00018500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 18600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00018600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 18700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00018700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 18800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00018800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 18900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00018900.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 19000}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00019000.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 19100}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00019100.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 19200}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00019200.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 19300}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00019300.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 19400}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00019400.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 19500}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00019500.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 19600}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00019600.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 19700}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00019700.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 19800}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00019800.pt
+----------  Regen  ----------
+----------  Eval  ----------
+{'WINS ratio': 0.0, 'DRAWS ratio': 1.0, 'LOSSES ratio': 0.0, 'step': 19900}
+Saved checkpoint at ~/scratch/checkpoints-TankTrouble/8h63f1tc/ckpt-00019900.pt
+----------  Regen  ----------
+
+======== GPU REPORT ========
+
+==============NVSMI LOG==============
+
+Timestamp                                 : Tue Apr  2 04:33:14 2024
+Driver Version                            : 535.154.05
+CUDA Version                              : 12.2
+
+Attached GPUs                             : 1
+GPU 00000000:43:00.0
+    Accounting Mode                       : Enabled
+    Accounting Mode Buffer Size           : 4000
+    Accounted Processes
+        Process ID                        : 801578
+            GPU Utilization               : 15 %
+            Memory Utilization            : 0 %
+            Max memory usage              : 1338 MiB
+            Time                          : 31384518 ms
+            Is Running                    : 0
+
+Tue Apr  2 04:33:14 2024       
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 535.154.05             Driver Version: 535.154.05   CUDA Version: 12.2     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  Quadro RTX 8000                On  | 00000000:43:00.0 Off |                    0 |
+| 36%   59C    P2              71W / 260W |      1MiB / 46080MiB |     18%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+                                                                                         
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|  No running processes found                                                           |
++---------------------------------------------------------------------------------------+
